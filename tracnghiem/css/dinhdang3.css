@@ -1,0 +1,48 @@
+.angel1 {
+  width: 500px;
+  height: 520px;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding: 30px 60px 30px 60px;
+  border: 5px solid orange;
+  border-radius: 12px;
+  background-color: aliceblue;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.devil1 {
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+  color: crimson;
+}
+.devil2 {
+  width: 380px;
+  padding-left: 60px;
+}
+.devil3 {
+  text-align: center;
+}
+.devil4 {
+  padding: 0px;
+}
+.angel2 {
+  width: 940px;
+  height: 700px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 30px 60px 30px 60px;
+  border: 5px solid blue;
+  border-radius: 12px;
+  background-color: azure;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.angel3 {
+  margin-left: 40px;
+  font-weight: bold;
+  font-size: 15px;
+}
+.dat {
+  text-align: center;
+}
